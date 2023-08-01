@@ -1,3 +1,5 @@
+Forked from the original, so PR's may be unavailable. If still available, checkout the original repository [here](https://github.com/UBB-SDI-23/lab-5x-georgerapeanu)
+
 This is a web application, with it's backend in Java Spring Boot, and frontend in Angular. Liquibase is used for migrations.
 It also utilizes a microservice for ai suggestions, written in python.
 For database population, a tool written in rust was utilized.
